@@ -295,7 +295,7 @@ a{
   width: 12px;
   background-color:white;
   border-radius: 50%;
-  top: 50%;
+  top: 55%;
   transform: translateY(-55%);
 }
 .s_progress-bar::-webkit-slider-thumb:hover{
