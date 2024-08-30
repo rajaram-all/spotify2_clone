@@ -296,7 +296,7 @@ a{
   background-color:white;
   border-radius: 50%;
   top: 55%;
-  transform: translateY(-55%);
+  transform: translateY(-52%);
 }
 .s_progress-bar::-webkit-slider-thumb:hover{
   background-color: #1bd760;
